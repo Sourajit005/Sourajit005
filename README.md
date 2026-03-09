@@ -20,10 +20,10 @@ I'm a passionate developer focused on building impactful projects and exploring 
 ---
 
 ### 📬 Let's Connect!
-* **📫 How to reach me:** 
+* **📫 How to reach me:** https://www.linkedin.com/in/sourajit-sahoo-5aa214233/ , https://www.instagram.com/_.sourajitsahoo._/
 * **⚡ Fun fact:** I believe the best code is the code you can explain to a 5-year-old.
 
----<img width="1477" height="819" alt="Screenshot 2026-03-07 185741" src="https://github.com/user-attachments/assets/bcb9f810-e501-4284-b747-e83e51c333e9" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sourajit005&label=Profile%20views&color=0e75b6&style=flat" alt="Sourajit005" />
