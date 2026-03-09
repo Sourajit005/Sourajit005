@@ -19,10 +19,20 @@ I'm a passionate developer focused on building impactful projects and exploring 
 
 ---
 
-### 📬 Let's Connect!
-* **📫 How to reach me:** https://www.linkedin.com/in/sourajit-sahoo-5aa214233/ , https://www.instagram.com/_.sourajitsahoo._/
-* **⚡ Fun fact:** I believe the best code is the code you can explain to a 5-year-old.
+<h3>Connect with me:</h3>
+<p align="left">
+  <a href="mailto:srrt2003@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sourajit-sahoo-5aa214233/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
 
+  <a href="https://www.instagram.com/_.sourajitsahoo._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+</p>
 
 
 <p align="center">
